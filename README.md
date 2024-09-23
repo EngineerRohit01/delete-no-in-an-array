@@ -1,0 +1,1 @@
+# delete-no-in-an-array
